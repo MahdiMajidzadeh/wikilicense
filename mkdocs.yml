@@ -1,0 +1,42 @@
+site_name: داکی
+
+copyright: 'Copyright &copy; 2020 Mahdi Majidzadeh'
+
+site_url: 'https://mahdimajidzadeh.github.io/docie/'
+site_author: 'Mahdi Majidzadeh'
+
+repo_name: 'docie'
+repo_url: 'https://github.com/MahdiMajidzadeh/docie'
+
+docs_dir: 'pages'
+site_dir: 'docs'
+lang: fa
+
+theme:
+  name: 'material'
+  highlightjs: true
+  # custom_dir: theme
+  include_sidebar: false
+  direction: 'rtl'
+  language: 'fa'
+  font: false
+
+plugins:
+  - search
+  - minify:
+      minify_html: true
+
+markdown_extensions:
+  - admonition
+  - meta
+
+extra_css: 
+  - 'extra/style.css'  
+
+extra:
+  search:
+    language: 'en, fa'
+
+nav:
+  - شروع: 'index.md'
+  - پیش نیازها: 'requirement.md'
