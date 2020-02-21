@@ -1,12 +1,12 @@
-site_name: داکی
+site_name: ویکی لایسنس
 
 copyright: 'Copyright &copy; 2020 Mahdi Majidzadeh'
 
-site_url: 'https://mahdimajidzadeh.github.io/docie/'
+site_url: 'https://wikilicense.ir/'
 site_author: 'Mahdi Majidzadeh'
 
 repo_name: 'docie'
-repo_url: 'https://github.com/MahdiMajidzadeh/docie'
+repo_url: 'https://github.com/MahdiMajidzadeh/wikilicense'
 
 docs_dir: 'pages'
 site_dir: 'docs'
@@ -20,6 +20,9 @@ theme:
   direction: 'rtl'
   language: 'fa'
   font: false
+  palette:
+    primary: 'deep orange'
+    accent: 'cyan'
 
 plugins:
   - search
