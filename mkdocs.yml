@@ -5,7 +5,7 @@ copyright: 'Copyright &copy; 2020 Mahdi Majidzadeh'
 site_url: 'https://wikilicense.ir/'
 site_author: 'Mahdi Majidzadeh'
 
-repo_name: 'docie'
+repo_name: 'wikilicense'
 repo_url: 'https://github.com/MahdiMajidzadeh/wikilicense'
 
 docs_dir: 'pages'
