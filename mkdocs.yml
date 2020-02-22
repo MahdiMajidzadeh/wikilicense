@@ -42,4 +42,6 @@ extra:
 
 nav:
   - شروع: 'index.md'
-  - پیش نیازها: 'requirement.md'
+  - لایسنس ها: 
+    - Apache License 2.0: 'licenses/apache-2.0.md'
+    - MIT License: 'licenses/mit.md'
