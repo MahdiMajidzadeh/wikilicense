@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-     <loc>https://mahdimajidzadeh.github.io/docie/</loc>
-     <lastmod>2020-02-20</lastmod>
+     <loc>https://wikilicense.ir/</loc>
+     <lastmod>2020-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://mahdimajidzadeh.github.io/docie/requirement/</loc>
-     <lastmod>2020-02-20</lastmod>
+     <loc>https://wikilicense.ir/licenses/apache-2.0/</loc>
+     <lastmod>2020-02-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://wikilicense.ir/licenses/mit/</loc>
+     <lastmod>2020-02-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://wikilicense.ir/licenses/gpl-3.0/</loc>
+     <lastmod>2020-02-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
