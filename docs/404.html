@@ -33,7 +33,7 @@
       
         <meta name="lang:search.tokenizer" content="[\s\-]+">
       
-      <link rel="shortcut icon" href="/assets/images/favicon.png">
+      <link rel="shortcut icon" href="/extra/favicon.png">
       <meta name="generator" content="mkdocs-1.0.4, mkdocs-material-4.6.3">
     
     
@@ -65,6 +65,31 @@
     
     
       
+        
+<script>
+  window.ga = window.ga || function() {
+    (ga.q = ga.q || []).push(arguments)
+  }
+  ga.l = +new Date
+  /* Setup integration and send page view */
+  ga("create", "UA-59492130-3", "auto")
+  ga("set", "anonymizeIp", true)
+  ga("send", "pageview")
+  /* Register handler to log search on blur */
+  document.addEventListener("DOMContentLoaded", () => {
+    if (document.forms.search) {
+      var query = document.forms.search.query
+      query.addEventListener("blur", function() {
+        if (this.value) {
+          var path = document.location.pathname;
+          ga("send", "pageview", path + "?q=" + this.value)
+        }
+      })
+    }
+  })
+</script>
+<script async src="https://www.google-analytics.com/analytics.js"></script>
+      
     
     
   </head>
@@ -92,7 +117,7 @@
       <div class="md-flex__cell md-flex__cell--shrink">
         <a href="https://wikilicense.ir/" title="ویکی لایسنس" aria-label="ویکی لایسنس" class="md-header-nav__button md-logo">
           
-            <i class="md-icon"></i>
+            <img alt="logo" src="/extra/logo.png" width="24" height="24">
           
         </a>
       </div>
@@ -184,7 +209,7 @@
   <label class="md-nav__title md-nav__title--site" for="__drawer">
     <a href="https://wikilicense.ir/" title="ویکی لایسنس" class="md-nav__button md-logo">
       
-        <i class="md-icon"></i>
+        <img alt="logo" src="/extra/logo.png" width="48" height="48">
       
     </a>
     ویکی لایسنس
@@ -218,8 +243,8 @@
 
 
   <li class="md-nav__item">
-    <a href="/." title="شروع" class="md-nav__link">
-      شروع
+    <a href="/." title="خانه" class="md-nav__link">
+      خانه
     </a>
   </li>
 
@@ -275,6 +300,30 @@
   <li class="md-nav__item">
     <a href="/licenses/gpl-3.0/" title="GNU General Public" class="md-nav__link">
       GNU General Public
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="/licenses/mpl-2.0/" title="Mozilla Public License 2.0" class="md-nav__link">
+      Mozilla Public License 2.0
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="/licenses/unlicense/" title="The Unlicense" class="md-nav__link">
+      The Unlicense
     </a>
   </li>
 

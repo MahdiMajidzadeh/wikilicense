@@ -2,22 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
      <loc>https://wikilicense.ir/</loc>
-     <lastmod>2020-02-23</lastmod>
+     <lastmod>2020-03-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://wikilicense.ir/licenses/apache-2.0/</loc>
-     <lastmod>2020-02-23</lastmod>
+     <lastmod>2020-03-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://wikilicense.ir/licenses/mit/</loc>
-     <lastmod>2020-02-23</lastmod>
+     <lastmod>2020-03-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://wikilicense.ir/licenses/gpl-3.0/</loc>
-     <lastmod>2020-02-23</lastmod>
+     <lastmod>2020-03-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://wikilicense.ir/licenses/mpl-2.0/</loc>
+     <lastmod>2020-03-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://wikilicense.ir/licenses/unlicense/</loc>
+     <lastmod>2020-03-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
