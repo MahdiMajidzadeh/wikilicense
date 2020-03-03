@@ -15,11 +15,12 @@ lang: fa
 theme:
   name: 'material'
   highlightjs: true
-  # custom_dir: theme
   include_sidebar: false
   direction: 'rtl'
   language: 'fa'
   font: false
+  favicon: 'extra/favicon.png'
+  logo: 'extra/logo.png'
   palette:
     primary: 'deep orange'
     accent: 'cyan'
@@ -39,6 +40,10 @@ extra_css:
 extra:
   search:
     language: 'en, fa'
+
+google_analytics:
+  - 'UA-59492130-3'
+  - 'auto'    
 
 nav:
   - خانه: 'index.md'
