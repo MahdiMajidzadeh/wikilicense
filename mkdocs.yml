@@ -41,7 +41,7 @@ extra:
     language: 'en, fa'
 
 nav:
-  - شروع: 'index.md'
+  - خانه: 'index.md'
   - لایسنس ها: 
     - Apache License 2.0: 'licenses/apache-2.0.md'
     - MIT License: 'licenses/mit.md'
