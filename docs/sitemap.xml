@@ -1,33 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-     <loc>https://wikilicense.ir/</loc>
-     <lastmod>2020-03-03</lastmod>
-     <changefreq>daily</changefreq>
+         <loc>https://wikilicense.ir/</loc>
+         <lastmod>2025-09-29</lastmod>
     </url>
     <url>
-     <loc>https://wikilicense.ir/licenses/apache-2.0/</loc>
-     <lastmod>2020-03-03</lastmod>
-     <changefreq>daily</changefreq>
+         <loc>https://wikilicense.ir/licenses/0bsd/</loc>
+         <lastmod>2025-09-29</lastmod>
     </url>
     <url>
-     <loc>https://wikilicense.ir/licenses/mit/</loc>
-     <lastmod>2020-03-03</lastmod>
-     <changefreq>daily</changefreq>
+         <loc>https://wikilicense.ir/licenses/agpl-3.0/</loc>
+         <lastmod>2025-09-29</lastmod>
     </url>
     <url>
-     <loc>https://wikilicense.ir/licenses/gpl-3.0/</loc>
-     <lastmod>2020-03-03</lastmod>
-     <changefreq>daily</changefreq>
+         <loc>https://wikilicense.ir/licenses/apache-2.0/</loc>
+         <lastmod>2025-09-29</lastmod>
     </url>
     <url>
-     <loc>https://wikilicense.ir/licenses/mpl-2.0/</loc>
-     <lastmod>2020-03-03</lastmod>
-     <changefreq>daily</changefreq>
+         <loc>https://wikilicense.ir/licenses/artistic-2.0/</loc>
+         <lastmod>2025-09-29</lastmod>
     </url>
     <url>
-     <loc>https://wikilicense.ir/licenses/unlicense/</loc>
-     <lastmod>2020-03-03</lastmod>
-     <changefreq>daily</changefreq>
+         <loc>https://wikilicense.ir/licenses/boost-1.0/</loc>
+         <lastmod>2025-09-29</lastmod>
+    </url>
+    <url>
+         <loc>https://wikilicense.ir/licenses/bsd-2-clause/</loc>
+         <lastmod>2025-09-29</lastmod>
+    </url>
+    <url>
+         <loc>https://wikilicense.ir/licenses/bsd-3-clause/</loc>
+         <lastmod>2025-09-29</lastmod>
+    </url>
+    <url>
+         <loc>https://wikilicense.ir/licenses/cc-by-4.0/</loc>
+         <lastmod>2025-09-29</lastmod>
+    </url>
+    <url>
+         <loc>https://wikilicense.ir/licenses/cc-by-nc-4.0/</loc>
+         <lastmod>2025-09-29</lastmod>
+    </url>
+    <url>
+         <loc>https://wikilicense.ir/licenses/cc-by-nc-sa-4.0/</loc>
+         <lastmod>2025-09-29</lastmod>
+    </url>
+    <url>
+         <loc>https://wikilicense.ir/licenses/cc-by-sa-4.0/</loc>
+         <lastmod>2025-09-29</lastmod>
+    </url>
+    <url>
+         <loc>https://wikilicense.ir/licenses/cc0-1.0/</loc>
+         <lastmod>2025-09-29</lastmod>
+    </url>
+    <url>
+         <loc>https://wikilicense.ir/licenses/cecill-2.1/</loc>
+         <lastmod>2025-09-29</lastmod>
+    </url>
+    <url>
+         <loc>https://wikilicense.ir/licenses/eclipse-2.0/</loc>
+         <lastmod>2025-09-29</lastmod>
+    </url>
+    <url>
+         <loc>https://wikilicense.ir/licenses/gpl-2.0/</loc>
+         <lastmod>2025-09-29</lastmod>
+    </url>
+    <url>
+         <loc>https://wikilicense.ir/licenses/gpl-3.0/</loc>
+         <lastmod>2025-09-29</lastmod>
+    </url>
+    <url>
+         <loc>https://wikilicense.ir/licenses/isc/</loc>
+         <lastmod>2025-09-29</lastmod>
+    </url>
+    <url>
+         <loc>https://wikilicense.ir/licenses/lgpl-2.1/</loc>
+         <lastmod>2025-09-29</lastmod>
+    </url>
+    <url>
+         <loc>https://wikilicense.ir/licenses/lgpl-3.0/</loc>
+         <lastmod>2025-09-29</lastmod>
+    </url>
+    <url>
+         <loc>https://wikilicense.ir/licenses/mit/</loc>
+         <lastmod>2025-09-29</lastmod>
+    </url>
+    <url>
+         <loc>https://wikilicense.ir/licenses/mpl-2.0/</loc>
+         <lastmod>2025-09-29</lastmod>
+    </url>
+    <url>
+         <loc>https://wikilicense.ir/licenses/postgresql/</loc>
+         <lastmod>2025-09-29</lastmod>
+    </url>
+    <url>
+         <loc>https://wikilicense.ir/licenses/unlicense/</loc>
+         <lastmod>2025-09-29</lastmod>
+    </url>
+    <url>
+         <loc>https://wikilicense.ir/licenses/wtfpl/</loc>
+         <lastmod>2025-09-29</lastmod>
+    </url>
+    <url>
+         <loc>https://wikilicense.ir/licenses/zlib/</loc>
+         <lastmod>2025-09-29</lastmod>
     </url>
 </urlset>

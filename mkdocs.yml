@@ -1,6 +1,6 @@
 site_name: ویکی لایسنس
 
-copyright: 'Copyright &copy; 2020 Mahdi Majidzadeh'
+copyright: 'Copyright &copy; 2025 Mahdi Majidzadeh'
 
 site_url: 'https://wikilicense.ir/'
 site_author: 'Mahdi Majidzadeh'
@@ -14,6 +14,13 @@ lang: fa
 
 theme:
   name: 'material'
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - search.highlight
+    - search.share
   highlightjs: true
   include_sidebar: false
   direction: 'rtl'
@@ -40,10 +47,9 @@ extra_css:
 extra:
   search:
     language: 'en, fa'
-
-google_analytics:
-  - 'UA-59492130-3'
-  - 'auto'    
+  analytics:
+    provider: google
+    property: 'UA-59492130-3'    
 
 nav:
   - خانه: 'index.md'
